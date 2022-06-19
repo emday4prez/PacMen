@@ -21,12 +21,6 @@ To run this file first download the root folder from github.
  - Or you can visit the [github pages](https://emday4prez.github.io/PacMen/) live site.
 
 
-
-### Continued development
-
-I would like to earn more experience working with APIs in JavaScript.
-
-
 ## License
 Copyright 2022 MIT
 
