@@ -12,7 +12,7 @@
 
 ## Description
 
-Creating Pacmen at the click of a button!
+Creating Pacmen at the click of a button! This method of creating images on click scales very well. The site also randomizes the speed and direction using javascript.
 
 
 ### How to run:
