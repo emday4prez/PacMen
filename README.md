@@ -20,6 +20,8 @@ To run this file first download the root folder from github.
  - Drag and drop in index.html page into any web browser. 
  - Or you can visit the [github pages](https://emday4prez.github.io/PacMen/) live site.
 
+## Future Improvements
+In the future I will make then pacment change direction as well as add the animation for the mouth moving.
 
 ## License
 Copyright 2022 MIT
